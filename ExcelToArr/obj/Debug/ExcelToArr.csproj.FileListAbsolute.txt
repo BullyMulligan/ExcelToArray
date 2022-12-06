@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\ExcelToArr.exe.config
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\ExcelToArr.exe
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\ExcelToArr.pdb
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.Properties.Resources.resources
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.csproj.GenerateResource.cache
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.exe
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.pdb
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\EPPlus.dll
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\EPPlus.xml
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.Form1.resources
+C:\Users\user\RiderProjects\ExcelToArr\ExcelToArr\obj\Debug\ExcelToArr.csproj.CopyComplete
